@@ -1,0 +1,91 @@
+C:\Users\Jackie\Documents\Visual Studio 2008\Projects\MCIMS\MCIMS\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jackie\Documents\Visual Studio 2008\Projects\MCIMS\MCIMS\obj\Release\MCIMS.frmLogin.resources
+C:\Users\Jackie\Documents\Visual Studio 2008\Projects\MCIMS\MCIMS\obj\Release\MCIMS.frmSplash.resources
+C:\Users\Jackie\Documents\Visual Studio 2008\Projects\MCIMS\MCIMS\obj\Release\MCIMS.Properties.Resources.resources
+C:\Users\Jackie\Documents\Visual Studio 2008\Projects\MCIMS\MCIMS\obj\Release\MCIMS.csproj.GenerateResource.Cache
+C:\Users\Jackie\Documents\Visual Studio 2008\Projects\MCIMS\MCIMS\bin\Release\MCIMS.exe
+C:\Users\Jackie\Documents\Visual Studio 2008\Projects\MCIMS\MCIMS\bin\Release\MCIMS.pdb
+C:\Users\Jackie\Documents\Visual Studio 2008\Projects\MCIMS\MCIMS\obj\Release\MCIMS.exe
+C:\Users\Jackie\Documents\Visual Studio 2008\Projects\MCIMS\MCIMS\obj\Release\MCIMS.pdb
+C:\Users\Jackie\Desktop\MCIMS\MCIMS\bin\Release\MCIMS.exe.config
+C:\Users\Jackie\Desktop\MCIMS\MCIMS\bin\Release\MCIMS.exe
+C:\Users\Jackie\Desktop\MCIMS\MCIMS\bin\Release\MCIMS.pdb
+C:\Users\Jackie\Desktop\MCIMS\MCIMS\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jackie\Desktop\MCIMS\MCIMS\obj\Release\MCIMS.frmLogin.resources
+C:\Users\Jackie\Desktop\MCIMS\MCIMS\obj\Release\MCIMS.frmSplash.resources
+C:\Users\Jackie\Desktop\MCIMS\MCIMS\obj\Release\MCIMS.Properties.Resources.resources
+C:\Users\Jackie\Desktop\MCIMS\MCIMS\obj\Release\MCIMS.csproj.GenerateResource.Cache
+C:\Users\Jackie\Desktop\MCIMS\MCIMS\obj\Release\MCIMS.exe
+C:\Users\Jackie\Desktop\MCIMS\MCIMS\obj\Release\MCIMS.pdb
+D:\MCIMS\MCIMS\bin\Release\MCIMS.exe.config
+D:\MCIMS\MCIMS\bin\Release\MCIMS.exe
+D:\MCIMS\MCIMS\bin\Release\MCIMS.pdb
+D:\MCIMS\MCIMS\obj\Release\ResolveAssemblyReference.cache
+D:\MCIMS\MCIMS\obj\Release\MCIMS.frmLogin.resources
+D:\MCIMS\MCIMS\obj\Release\MCIMS.frmSplash.resources
+D:\MCIMS\MCIMS\obj\Release\MCIMS.Properties.Resources.resources
+D:\MCIMS\MCIMS\obj\Release\MCIMS.csproj.GenerateResource.Cache
+D:\MCIMS\MCIMS\obj\Release\MCIMS.exe
+D:\MCIMS\MCIMS\obj\Release\MCIMS.pdb
+C:\Users\Jackie\Desktop\MCIMS\MCIMS\obj\Release\MCIMS.frmMain.resources
+C:\Users\Jackie\Desktop\MCIMS\MCIMS\obj\Release\MCIMS.MDIParent1.resources
+C:\Users\Jackie\Desktop\MCIMS\MCIMS\obj\Release\MCIMS.frmFaculty.resources
+C:\Users\Jackie\Desktop\MCIMS\MCIMS\bin\Release\MySql.Data.dll
+C:\Users\Jackie\Desktop\MCIMS\MCIMS\obj\Release\MCIMS.frmCourse.resources
+C:\Users\Jackie\Desktop\MCIMS\MCIMS\obj\Release\MCIMS.frmDepartment.resources
+C:\Users\Jackie\Desktop\MCIMS\MCIMS\obj\Release\MCIMS.frmLoading.resources
+C:\Users\Jackie\Desktop\MCIMS\MCIMS\obj\Release\MCIMS.frmProgram.resources
+C:\Users\Jackie\Desktop\MCIMS\MCIMS\obj\Release\MCIMS.frmProgramCourse.resources
+C:\Users\Jackie\Desktop\MCIMS\MCIMS\obj\Release\MCIMS.frmStaff.resources
+C:\Users\Jackie\Desktop\MCIMS\MCIMS\obj\Release\MCIMS.frmStudent.resources
+C:\Users\Jackie\Desktop\MCIMS\MCIMS\bin\Release\MCIMS.exe.manifest
+C:\Users\Jackie\Desktop\MCIMS\MCIMS\bin\Release\MCIMS.application
+C:\Users\Jackie\Desktop\MCIMS\MCIMS\bin\Release\Interop.RDWIZLib.dll
+C:\Users\Jackie\Desktop\MCIMS\MCIMS\obj\Release\Interop.RDWIZLib.dll
+C:\Users\Jackie\Desktop\MCIMS\MCIMS\obj\Release\MCIMS.csproj.ResolveComReference.cache
+C:\Users\Jackie\Desktop\MCIMS\MCIMS\obj\Release\MCIMS.AboutUs.resources
+C:\Users\Jackie\Desktop\MCIMS\MCIMS\obj\Release\MCIMS.frmReport.resources
+C:\Users\Jackie\Desktop\MCIMS\MCIMS\obj\Release\MCIMS.exe.manifest
+C:\Users\Jackie\Desktop\MCIMS\MCIMS\obj\Release\MCIMS.application
+D:\Software\MCIMS\MCIMS\bin\Release\MCIMS.exe.config
+D:\Software\MCIMS\MCIMS\obj\Release\Interop.RDWIZLib.dll
+D:\Software\MCIMS\MCIMS\obj\Release\MCIMS.csproj.ResolveComReference.cache
+D:\Software\MCIMS\MCIMS\obj\Release\MCIMS.exe
+D:\Software\MCIMS\MCIMS\obj\Release\MCIMS.pdb
+D:\Software\MCIMS\MCIMS\obj\Release\ResolveAssemblyReference.cache
+D:\Software\MCIMS\MCIMS\bin\Release\MCIMS.exe.manifest
+D:\Software\MCIMS\MCIMS\bin\Release\MCIMS.application
+D:\Software\MCIMS\MCIMS\bin\Release\MCIMS.exe
+D:\Software\MCIMS\MCIMS\bin\Release\MCIMS.pdb
+D:\Software\MCIMS\MCIMS\bin\Release\MySql.Data.dll
+D:\Software\MCIMS\MCIMS\bin\Release\Interop.RDWIZLib.dll
+D:\Software\MCIMS\MCIMS\obj\Release\MCIMS.AboutUs.resources
+D:\Software\MCIMS\MCIMS\obj\Release\MCIMS.frmCourse.resources
+D:\Software\MCIMS\MCIMS\obj\Release\MCIMS.frmDepartment.resources
+D:\Software\MCIMS\MCIMS\obj\Release\MCIMS.frmFaculty.resources
+D:\Software\MCIMS\MCIMS\obj\Release\MCIMS.frmLoading.resources
+D:\Software\MCIMS\MCIMS\obj\Release\MCIMS.frmLogin.resources
+D:\Software\MCIMS\MCIMS\obj\Release\MCIMS.frmMain.resources
+D:\Software\MCIMS\MCIMS\obj\Release\MCIMS.frmProgram.resources
+D:\Software\MCIMS\MCIMS\obj\Release\MCIMS.frmProgramCourse.resources
+D:\Software\MCIMS\MCIMS\obj\Release\MCIMS.frmReport.resources
+D:\Software\MCIMS\MCIMS\obj\Release\MCIMS.frmSplash.resources
+D:\Software\MCIMS\MCIMS\obj\Release\MCIMS.frmStaff.resources
+D:\Software\MCIMS\MCIMS\obj\Release\MCIMS.frmStudent.resources
+D:\Software\MCIMS\MCIMS\obj\Release\MCIMS.MDIParent1.resources
+D:\Software\MCIMS\MCIMS\obj\Release\MCIMS.Properties.Resources.resources
+D:\Software\MCIMS\MCIMS\obj\Release\MCIMS.csproj.GenerateResource.Cache
+D:\Software\MCIMS\MCIMS\obj\Release\MCIMS.exe.manifest
+D:\Software\MCIMS\MCIMS\obj\Release\MCIMS.application
+E:\Software\MCIMS\MCIMS\bin\Release\MCIMS.exe.config
+E:\Software\MCIMS\MCIMS\obj\Release\Interop.RDWIZLib.dll
+E:\Software\MCIMS\MCIMS\obj\Release\MCIMS.csproj.ResolveComReference.cache
+E:\Software\MCIMS\MCIMS\obj\Release\MCIMS.exe
+E:\Software\MCIMS\MCIMS\obj\Release\MCIMS.pdb
+D:\softwares\MCIMS\MCIMS\bin\Release\MCIMS.exe.config
+D:\softwares\MCIMS\MCIMS\obj\Release\MCIMS.csproj.ResolveComReference.cache
+D:\softwares\MCIMS\MCIMS\obj\Release\MCIMS.exe
+D:\softwares\MCIMS\MCIMS\obj\Release\MCIMS.pdb
+D:\softwares\MCIMS\MCIMS\obj\Release\MCIMS.csprojResolveAssemblyReference.cache
+E:\softwares\MCIMS\MCIMS\obj\Release\MCIMS.exe
+E:\softwares\MCIMS\MCIMS\obj\Release\MCIMS.pdb
